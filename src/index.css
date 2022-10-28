@@ -1,0 +1,32 @@
+.color-body{
+  background-color: #f8f8f8 !important;
+}
+.NavBarW{
+  color:red;
+}
+.font{
+  font-family: 'Almarai', sans-serif;
+}
+.title{
+  color:#224f61;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 64px;
+  font-family: "Almarai";
+}
+.underline{
+  height: 1px;
+  width: 200px;
+  border-radius: 10px;
+  border: 2px solid #198754;
+}
+.item-title{
+  color:#555;
+}
+.item-description{
+  color: #8c8c8c;
+}
+.item-price{
+  color:#198754;
+}
